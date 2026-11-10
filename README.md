@@ -247,3 +247,4 @@ react-lab/
 ## Future Work
 
 Payments, GPS, government schemes, AI advice, offline sync, external price APIs, SMS, JWT/OAuth, Docker, cloud hosting.
+
