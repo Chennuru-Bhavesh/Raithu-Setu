@@ -1,0 +1,8 @@
+{
+  "name": "raithusetu-react-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install-vendor": "npm install react react-dom && copy node_modules/react/cjs/react.development.js vendor/react.development.js && copy node_modules/react-dom/cjs/react-dom.development.js vendor/react-dom.development.js"
+  }
+}
