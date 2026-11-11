@@ -6,14 +6,14 @@ A portable Java + Node + SQLite teaching project for a 5?6 minute college lab de
 
 - `ads-lab/` - Java data structures demo
 - `java-lab/` - Java console client with offline mode
-- `backend/` - Express + SQLite API shared by Java and React
+- `backend/` - Node.js built-in HTTP + `node:sqlite` API shared by Java and React
 - `react-lab/` - browser UI using local React vendor files
 - `dbms-lab/` - SQLite schema, seed, queries and transaction scripts
 - `PRESENTATION/` - slide deck notes and viva questions
 
 ## Quick start
 
-1. Install Node.js LTS and Java 17+.
+1. Install Node.js 22.13+ and Java 17+.
 2. In backend:
    - `npm install`
    - `npm run db:reset`
@@ -247,4 +247,3 @@ react-lab/
 ## Future Work
 
 Payments, GPS, government schemes, AI advice, offline sync, external price APIs, SMS, JWT/OAuth, Docker, cloud hosting.
-
